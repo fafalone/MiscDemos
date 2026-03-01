@@ -27,3 +27,5 @@ All projects have been updated to use WinDevLib instead of oleexp.tlb and/or loc
 **FileDialogFilter** - Use IShellItemFilter to apply a per-item filter for IFileDialog/IFileOpenDialog/IFileSaveDialog. A port of [[VB6] Exclude file types from Open/Save Dialogs ('all except...'): IShellItemFilter](https://www.vbforums.com/showthread.php?851291-VB6-Exclude-file-types-from-Open-Save-Dialogs-(-all-except-)-IShellItemFilter).
 
 **KFMenu** - An example of using KnownFolders, the replacement for CSIDLs, by showing a popup menu with their icons/names. Based on [[VB6, Vista+] Code snippet: KnownFolders made easy with IKnownFolderManager](https://www.vbforums.com/showthread.php?799041-VB6-Vista-Code-snippet-KnownFolders-made-easy-with-IKnownFolderManager).
+
+**StructuredQuerySearch** - Search for files by any property. A port of [[VB6] Using Structured Queries to conduct a Windows Search by any property](https://www.vbforums.com/showthread.php?878841-VB6-Using-Structured-Queries-to-conduct-a-Windows-Search-by-any-property)
