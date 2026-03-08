@@ -31,3 +31,5 @@ All projects have been updated to use WinDevLib instead of oleexp.tlb and/or loc
 **StructuredQuerySearch** - Search for files by any property. A port of [[VB6] Using Structured Queries to conduct a Windows Search by any property](https://www.vbforums.com/showthread.php?878841-VB6-Using-Structured-Queries-to-conduct-a-Windows-Search-by-any-property)
 
 **ImageInterfaces** - Shows off some handy ImageList/image transcode/image display (Inc multiframe and multipage) COM interfaces. A port of [Easy image disp/edit; scale/rotate, show animated gifs, conv2JPG, +more; No GDI+/DLL](https://www.vbforums.com/showthread.php?805521-Easy-image-disp-edit-scale-rotate-show-animated-gifs-conv2JPG-more-No-GDI-DLL). Note: Apparently on Win10+ IExtractImage isn't available for .ico files, so this version switches to IShellItemImageFactory.
+
+**ListViewFooters** - Undocumented ListView Series Part 1: Showing footer buttons. A port of [[VB6, Vista+] Undocumented ListView feature: Footer items](https://www.vbforums.com/showthread.php?798159-VB6-Vista-Undocumented-ListView-feature-Footer-items).
