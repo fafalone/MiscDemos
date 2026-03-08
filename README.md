@@ -29,3 +29,5 @@ All projects have been updated to use WinDevLib instead of oleexp.tlb and/or loc
 **KFMenu** - An example of using KnownFolders, the replacement for CSIDLs, by showing a popup menu with their icons/names. Based on [[VB6, Vista+] Code snippet: KnownFolders made easy with IKnownFolderManager](https://www.vbforums.com/showthread.php?799041-VB6-Vista-Code-snippet-KnownFolders-made-easy-with-IKnownFolderManager).
 
 **StructuredQuerySearch** - Search for files by any property. A port of [[VB6] Using Structured Queries to conduct a Windows Search by any property](https://www.vbforums.com/showthread.php?878841-VB6-Using-Structured-Queries-to-conduct-a-Windows-Search-by-any-property)
+
+**ImageInterfaces** - Shows off some handy ImageList/image transcode/image display (Inc multiframe and multipage) COM interfaces. A port of [Easy image disp/edit; scale/rotate, show animated gifs, conv2JPG, +more; No GDI+/DLL](https://www.vbforums.com/showthread.php?805521-Easy-image-disp-edit-scale-rotate-show-animated-gifs-conv2JPG-more-No-GDI-DLL). Note: Apparently on Win10+ IExtractImage isn't available for .ico files, so this version switches to IShellItemImageFactory.
