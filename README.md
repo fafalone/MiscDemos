@@ -2,6 +2,11 @@
 Old VB6 demos of mine converted to tB with no additional features/notes.\
 All projects have been updated to use WinDevLib instead of oleexp.tlb and/or local API defs, and to support x64 builds.
 
+## General Requirements
+These projects all require Windows Development Library for twinBASIC. This is a linked package so once you've exported it from any tB project it's available to all projects. To get it for the first time, or to update it, go to References->Available Packages. Unchecking the Embed column makes it available to all projects that link it.
+
+## Projects
+
 **IFileDialog64** - This shows conversion of my VB6 project [[VB6] Using the new IFileDialog interface for customizable Open/Save](https://www.vbforums.com/showthread.php?786031-VB6-Using-the-new-IFileDialog-interface-for-customizable-Open-Save-(TLB-Vista-)) at each stage in converting to x64: The original VB6 import that works as-is with no modification, switching definitions to WinDevLib, updating for x64 support, and finally eliminating unncessary v-table swapping by using new tB features.
 
 **ITaskbarListDemo** - Show an overlay icon, progress bar, custom thumbnail with buttons, and more on your app's Taskbar item. A port of [[VB6] Win7 Taskbar Features with ITaskbarList3 : overlay, progress in taskbar, etc](https://www.vbforums.com/showthread.php?786173).
