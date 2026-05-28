@@ -44,3 +44,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **ShellWindowsDetails** - Enumerate and list details of all open shell windows, including ones registered by 3rd party apps like #RegShellWindow. A port of [[VB6] Get extended details about Explorer windows by getting their IFolderView](https://www.vbforums.com/showthread.php?818959-VB6-Get-extended-details-about-Explorer-windows-by-getting-their-IFolderView).
 
 **PropDisp** - Displays a list of all properties for a file, including e.g. Author, Album Title, Width, etc. A port of [[VB6, Vista+] List all file properties, locale/unit formatted, by modern PROPERTYKEY](https://www.vbforums.com/showthread.php?797235-VB6-Vista-List-all-file-properties-locale-unit-formatted-by-modern-PROPERTYKEY).
+
+**cProgressWindowDemo** - A port of [[VB6] Class to display a standard Explorer-style progress window](https://www.vbforums.com/showthread.php?857409-VB6-Class-to-show-a-standard-Explorer-style-progress-window)
