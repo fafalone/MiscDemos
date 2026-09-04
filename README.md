@@ -54,3 +54,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **ThumbCache** - Using the system-wide thumbnail cache. A port of [[VB6, Vista+] Direct access to the system-wide image thumbnail cache ](https://www.vbforums.com/showthread.php?839717-VB6-Vista-Direct-access-to-the-system-wide-image-thumbnail-cache)
 
 **APIDrag** - Drag files with the fancy drag images Explorer etc show when dragging. A port of [[VB6] API File Drag from multiple paths w/o native OLE or dragsource, SHDoDragDrop](https://www.vbforums.com/showthread.php?792713-VB6-API-File-Drag-from-multiple-paths-w-o-native-OLE-or-dragsource-SHDoDragDrop)
+
+**ComDlgPerDialog** - Open/save dialogs that remember the last path by an associated GUID, rather than per app, allowing multiple settings groups. A port of [[VB6, Vista+] Remember Open/Save state per-dialog instead of per-app w/ IFileDialog](https://www.vbforums.com/showthread.php?839647-VB6-Vista-Remember-Open-Save-state-per-dialog-instead-of-per-app-(IFileDialog))
