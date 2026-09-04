@@ -58,3 +58,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **ComDlgPerDialog** - Open/save dialogs that remember the last path by an associated GUID, rather than per app, allowing multiple settings groups. A port of [[VB6, Vista+] Remember Open/Save state per-dialog instead of per-app w/ IFileDialog](https://www.vbforums.com/showthread.php?839647-VB6-Vista-Remember-Open-Save-state-per-dialog-instead-of-per-app-(IFileDialog))
 
 **ZipExtract** - Using structured storage APIs to unzip files. A port of [[VB6] Basic unzip without 3rd party DLL or shell32- IStorage-based](https://www.vbforums.com/showthread.php?804893-VB6-Basic-unzip-without-3rd-party-DLL-or-shell32-IStorage-based)
+
+**StgZip** - Creating zip files with the shell and IStorage. A port of [[VB6] Create a ZIP file without any DLL depends using IStorage and IDropTarget](https://www.vbforums.com/showthread.php?808681-VB6-Create-a-ZIP-file-without-any-DLL-depends-using-IStorage-and-IDropTarget)
