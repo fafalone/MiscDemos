@@ -52,3 +52,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **DragFormats** - Adding any format to an IDataObject for drag/drop or clipboard without creating a custom implementation. A port of [[VB6] Drag drop any format to other apps without custom IDataObject](https://www.vbforums.com/showthread.php?832469-VB6-Drag-drop-any-format-to-other-apps-without-custom-IDataObject)
 
 **ThumbCache** - Using the system-wide thumbnail cache. A port of [[VB6, Vista+] Direct access to the system-wide image thumbnail cache ](https://www.vbforums.com/showthread.php?839717-VB6-Vista-Direct-access-to-the-system-wide-image-thumbnail-cache)
+
+**APIDrag** - Drag files with the fancy drag images Explorer etc show when dragging. A port of [[VB6] API File Drag from multiple paths w/o native OLE or dragsource, SHDoDragDrop](https://www.vbforums.com/showthread.php?792713-VB6-API-File-Drag-from-multiple-paths-w-o-native-OLE-or-dragsource-SHDoDragDrop)
