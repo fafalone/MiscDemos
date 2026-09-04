@@ -50,3 +50,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **ThumbsEx** - Display files in a ListView using thumbnails for all file types. Goes farther than Explorer by drawing small images in a larger frame. A port of [[VB6, Vista+] Advanced Thumbnail ListView: Icons, images, videos, framed small images](https://www.vbforums.com/showthread.php?834453-VB6-Vista-Advanced-Thumbnail-ListView-Icons-images-videos-framed-small-images)
 
 **DragFormats** - Adding any format to an IDataObject for drag/drop or clipboard without creating a custom implementation. A port of [[VB6] Drag drop any format to other apps without custom IDataObject](https://www.vbforums.com/showthread.php?832469-VB6-Drag-drop-any-format-to-other-apps-without-custom-IDataObject)
+
+**ThumbCache** - Using the system-wide thumbnail cache. A port of [[VB6, Vista+] Direct access to the system-wide image thumbnail cache ](https://www.vbforums.com/showthread.php?839717-VB6-Vista-Direct-access-to-the-system-wide-image-thumbnail-cache)
