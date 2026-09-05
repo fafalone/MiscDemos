@@ -60,3 +60,5 @@ Note: Parts 2, 4, and 5 are just code Snippets; they've been updated in their or
 **ZipExtract** - Using structured storage APIs to unzip files. A port of [[VB6] Basic unzip without 3rd party DLL or shell32- IStorage-based](https://www.vbforums.com/showthread.php?804893-VB6-Basic-unzip-without-3rd-party-DLL-or-shell32-IStorage-based)
 
 **StgZip** - Creating zip files with the shell and IStorage. A port of [[VB6] Create a ZIP file without any DLL depends using IStorage and IDropTarget](https://www.vbforums.com/showthread.php?808681-VB6-Create-a-ZIP-file-without-any-DLL-depends-using-IStorage-and-IDropTarget)
+
+**PlayMP3** - Use the `sndPlaySound`/`PlaySound` API to play mp3s by wrapping mp3 audio inside a WAV header. Added file picker. A port of [[VB6] Play MP3s from either file or byte array w/ PlaySound (sndPlaySound)](https://www.vbforums.com/showthread.php?884619-VB6-Play-MP3s-from-either-file-or-byte-array-w-PlaySound-(sndPlaySound))
